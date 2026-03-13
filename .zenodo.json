@@ -1,0 +1,18 @@
+{
+  "title": "Butler Systems Research Notes",
+  "creators": [
+    {
+      "name": "Butler, Colter T.",
+      "affiliation": "Butler Systems"
+    }
+  ],
+  "description": "Public research notes and structural mathematics releases from Butler Systems.",
+  "license": "CC-BY-4.0",
+  "upload_type": "software",
+  "keywords": [
+    "mathematics",
+    "group theory",
+    "symmetry",
+    "Butler Systems"
+  ]
+}
