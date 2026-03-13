@@ -46,3 +46,4 @@ Each note is released with an explicit boundary between:
 - what remains open
 
 That is the working rule of the Butler Systems ladder.
+[![DOI](https://zenodo.org/badge/1180996103.svg)](https://doi.org/10.5281/zenodo.19006142)
