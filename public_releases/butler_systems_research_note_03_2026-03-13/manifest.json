@@ -1,0 +1,28 @@
+{
+  "schema": "butler.public_research_note.v1",
+  "generated_at": "2026-03-13T16:18:00-06:00",
+  "canopy": "Butler Systems",
+  "note_id": "research_note_03",
+  "title": "Central and Noncentral Activation Lanes in a Rotor Closure",
+  "release_class": "public_note",
+  "scope": {
+    "claims": [
+      "quotient_classification_for_G_rho",
+      "central_lane_quotient_type",
+      "noncentral_lane_quotient_type",
+      "branch_selector_on_induced_quotient_action",
+      "finite_activation_class_register_C0_C1_C2"
+    ],
+    "withheld": [
+      "dynamical_branch_selection",
+      "delta_event_dynamics",
+      "witness_confirmation_of_full_classification_package",
+      "global_crossing_spectrum",
+      "renormalization_claims",
+      "full_butler_systems_ontology_as_novelty_claim"
+    ]
+  },
+  "artifacts": [
+    "README.md"
+  ]
+}

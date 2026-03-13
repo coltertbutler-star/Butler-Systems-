@@ -1,0 +1,26 @@
+{
+  "schema": "butler.public_research_note.v1",
+  "generated_at": "2026-03-13T16:05:00-06:00",
+  "canopy": "Butler Systems",
+  "note_id": "research_note_01",
+  "title": "A Hinge-Seam Closure for a Rotor Program",
+  "release_class": "public_note",
+  "scope": {
+    "claims": [
+      "hinge_law_I(Xi,Sigma,Pi)=XiSigma-Pi",
+      "seam_coordinate_nu_s=ln((XiSigma)/Pi)",
+      "smallest_exact_closure_projection_separation",
+      "first_public_stable_rotor_program_object"
+    ],
+    "withheld": [
+      "exact_central_collapse_package",
+      "noncentral_delta_classification_package",
+      "delta_event_dynamics",
+      "broad_universality",
+      "full_butler_systems_ontology_as_novelty_claim"
+    ]
+  },
+  "artifacts": [
+    "README.md"
+  ]
+}

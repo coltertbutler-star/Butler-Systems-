@@ -1,0 +1,27 @@
+{
+  "schema": "butler.public_research_note.v1",
+  "generated_at": "2026-03-13T16:18:00-06:00",
+  "canopy": "Butler Systems",
+  "note_id": "research_note_02",
+  "title": "Central Activation and Exact Collapse in a Rotor Closure",
+  "release_class": "public_note",
+  "scope": {
+    "claims": [
+      "exact_central_collapse_map",
+      "kernel_V4x{e}",
+      "12_equals_closure",
+      "6_equals_operational_projection",
+      "operational_layer_not_presented_as_embedded_subgroup_here"
+    ],
+    "withheld": [
+      "noncentral_delta_classification_package",
+      "delta_event_dynamics",
+      "witness_domain_confirmation_of_full_collapse_package",
+      "broad_universality",
+      "full_butler_systems_ontology_as_novelty_claim"
+    ]
+  },
+  "artifacts": [
+    "README.md"
+  ]
+}
