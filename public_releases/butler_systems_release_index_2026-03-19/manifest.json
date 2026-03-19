@@ -1,0 +1,18 @@
+{
+  "schema": "butler.public_release_index.v1",
+  "generated_at": "2026-03-19T10:40:00-06:00",
+  "canopy": "Butler Systems",
+  "release_class": "public_index",
+  "published_notes": [
+    "research_note_01",
+    "research_note_02",
+    "research_note_03",
+    "research_note_05"
+  ],
+  "withheld_slots": [
+    "research_note_04"
+  ],
+  "artifacts": [
+    "README.md"
+  ]
+}

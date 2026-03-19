@@ -1,0 +1,25 @@
+{
+  "schema": "butler.public_research_note.v1",
+  "generated_at": "2026-03-19T10:40:00-06:00",
+  "canopy": "Butler Systems",
+  "note_id": "research_note_05",
+  "title": "A Host-Law Witness for Seam Crossing in General Relativity",
+  "release_class": "public_note",
+  "scope": {
+    "claims": [
+      "gr_null_expansion_variation_as_seam_bearing_support_burden_split",
+      "theta_plus_equals_zero_as_first_host_seam",
+      "B_zero_slice_recovers_standard_raychaudhuri_focusing_structure",
+      "gr_as_host_law_witness"
+    ],
+    "withheld": [
+      "full_A4_rotor_closure_inside_GR",
+      "Delta_branch_selection_from_GR_alone",
+      "host_law_witness_as_substitute_for_abstract_closure_package",
+      "broad_universality_from_one_witness_domain"
+    ]
+  },
+  "artifacts": [
+    "README.md"
+  ]
+}

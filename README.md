@@ -8,13 +8,14 @@ This repository is intentionally narrow. It publishes small, bounded research no
 
 Start here:
 
-- `public_releases/butler_systems_release_index_2026-03-13/README.md`
+- `public_releases/butler_systems_release_index_2026-03-19/README.md`
 
 Current released notes:
 
 1. `A Hinge-Seam Closure for a Rotor Program`
 2. `Central Activation and Exact Collapse in a Rotor Closure`
 3. `Central and Noncentral Activation Lanes in a Rotor Closure`
+4. `A Host-Law Witness for Seam Crossing in General Relativity`
 
 ## What this repo is for
 
