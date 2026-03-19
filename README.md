@@ -8,7 +8,7 @@ This repository is intentionally narrow. It publishes small, bounded research no
 
 Start here:
 
-- `public_releases/butler_systems_release_index_2026-03-19/README.md`
+- [Current release index](public_releases/butler_systems_release_index_2026-03-19/README.md)
 
 Current released notes:
 

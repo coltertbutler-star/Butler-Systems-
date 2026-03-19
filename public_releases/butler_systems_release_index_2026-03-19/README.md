@@ -14,18 +14,18 @@ It exists so the record reads as one controlled sequence rather than as isolated
 
 ## Published Notes
 
-1. [Research Note 01](/Users/colterbutler/Documents/New project/public_releases/butler_systems_research_note_01_2026-03-13/README.md)
+1. [Research Note 01](../butler_systems_research_note_01_2026-03-13/README.md)
    - `A Hinge-Seam Closure for a Rotor Program`
    - hinge
    - seam coordinate
    - smallest exact closure/projection spine
 
-2. [Research Note 02](/Users/colterbutler/Documents/New project/public_releases/butler_systems_research_note_02_2026-03-13/README.md)
+2. [Research Note 02](../butler_systems_research_note_02_2026-03-13/README.md)
    - `Central Activation and Exact Collapse in a Rotor Closure`
    - exact central collapse
    - exact `12 -> 6` central lane
 
-3. [Research Note 03](/Users/colterbutler/Documents/New project/public_releases/butler_systems_research_note_03_2026-03-13/README.md)
+3. [Research Note 03](../butler_systems_research_note_03_2026-03-13/README.md)
    - `Central and Noncentral Activation Lanes in a Rotor Closure`
    - central/noncentral classification
    - `C6 / S3` quotient split
@@ -34,7 +34,7 @@ It exists so the record reads as one controlled sequence rather than as isolated
    - reserved and still held local
    - not yet in the public record
 
-5. [Research Note 05](/Users/colterbutler/Documents/New project/public_releases/butler_systems_research_note_05_2026-03-19/README.md)
+5. [Research Note 05](../butler_systems_research_note_05_2026-03-19/README.md)
    - `A Host-Law Witness for Seam Crossing in General Relativity`
    - GR null-expansion witness
    - first host seam `theta_+ = 0`
